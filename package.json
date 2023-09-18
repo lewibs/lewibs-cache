@@ -1,0 +1,26 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "this is a node template. You should update this.",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewibs/node-template.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "lewibs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lewibs/node-template/issues"
+  },
+  "homepage": "https://github.com/lewibs/node-template#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
