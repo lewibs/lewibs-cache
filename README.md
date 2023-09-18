@@ -1,15 +1,17 @@
-# quick-cache
+# lewibs-cache
 
 ## Overview
 
 This utility allows you to convert a function into a caching function, enhancing performance by storing and retrieving its output based on specified options. This can be especially useful when you have computationally expensive functions that are repeatedly called with the same arguments.
+
+If you need this to be more robust then you should just use react-query.
 
 ## Installation
 
 You can install this utility via npm:
 
 ```bash
-npm install quick-cache
+npm install lewibs-cache
 ```
 
 ## Usage
@@ -17,11 +19,11 @@ npm install quick-cache
 To use the caching utility, import it into your JavaScript code:
 
 ```javascript
-const cache = require('quick-cache');
+const cache = require('lewibs-cache');
 
 //or 
 
-import {cache} from "quick-cache";
+import {cache} from "lewibs-cache";
 ```
 
 ### Syntax
@@ -55,7 +57,7 @@ console.log(cachedCalculation(2, 3)); // Retrieves the result from the cache, av
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions, bug reports, or improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/lewibs/quick-cache).
+Contributions are welcome! If you have suggestions, bug reports, or improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/lewibs/lewibs-cache).
 
 ## License
 
