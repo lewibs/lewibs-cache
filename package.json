@@ -12,14 +12,14 @@
     "url": "git+https://github.com/lewibs/quick-cache.git"
   },
   "keywords": [
-    "template"
+    "cache"
   ],
   "author": "lewibs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lewibs/node-template/issues"
+    "url": "https://github.com/lewibs/quick-cache/issues"
   },
-  "homepage": "https://github.com/lewibs/node-template#readme",
+  "homepage": "https://github.com/lewibs/quick-cache#readme",
   "devDependencies": {
     "jest": "^29.5.0"
   }
