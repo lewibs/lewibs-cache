@@ -1,7 +1,7 @@
 {
-  "name": "template",
-  "version": "1.0.0",
-  "description": "this is a node template. You should update this.",
+  "name": "quick-cache",
+  "version": "0.0.1",
+  "description": "This is a library used to quickly turn functions into cachable functions",
   "main": "./src/index.js",
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lewibs/node-template.git"
+    "url": "git+https://github.com/lewibs/quick-cache.git"
   },
   "keywords": [
     "template"

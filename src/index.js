@@ -1,5 +1,2 @@
-function demo() {
-    return "demo";
-}
-
-module.exports = {demo}
+const {cache} = require("./cache");
+module.exports = {cache}
